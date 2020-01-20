@@ -1,0 +1,9 @@
+{
+    "navbar": {
+        "user-account": {
+            "accountdetails": "My account",
+            "logout": "Log out",
+            "start-teamviewer": "Start TeamViewer"
+        }
+    }
+}

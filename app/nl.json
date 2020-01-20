@@ -1,0 +1,9 @@
+{
+    "navbar": {
+        "user-account": {
+            "accountdetails": "Mijn gegevens",
+            "logout": "Afmelden",
+            "start-teamviewer": "Start TeamViewer"
+        }
+    }
+}
