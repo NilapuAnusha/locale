@@ -1,0 +1,8 @@
+{
+    "title-heading": "Administrator monitor",
+    "advisor-setting-link": " Manage partner",
+    "my-client-tab": "My clients",
+    "other-administration-tab": "Other administrations",
+    "my-dossiers-tab": "My files",
+    "my-checklists-tab": "My checklists"
+}
