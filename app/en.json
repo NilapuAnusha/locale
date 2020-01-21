@@ -5,5 +5,13 @@
             "logout": "Log out",
             "start-teamviewer": "Start TeamViewer"
         }
-    }
+    },
+    "my-client-tab": "My clients",
+    "other-administration-tab": "Other administrations",
+    "my-dossiers-tab": "My files",
+    "my-checklists-tab": "My checklists",
+    "title-heading": "Administrator monitor",
+    "advisor-setting-link": " Manage partner",
+    "english": "English",
+    "dutch": "Dutch"
 }
