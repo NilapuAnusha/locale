@@ -1,10 +1,6 @@
 {
-    "title-heading": "New title",
-    "advisor-setting-link": "",
-    "english": "",
-    "dutch": "",
-    "my-client-tab": "",
-    "other-administration-tab": "",
-    "my-dossiers-tab": "",
-    "my-checklists-tab": ""
+    "title-heading": "Administrator monitor",
+    "advisor-setting-link": " Manage partner",
+    "english": "English",
+    "dutch": "Dutch"
 }
